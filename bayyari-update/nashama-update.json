@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
+  "versionCode": 31,
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.app.apk",
-  "versionName": "1.2.5",
-  "apkSha256": "6411ca73d094034afc457367458c5b8963b125d5721982c45e6607e74048d822",
-  "releaseNotes": "NashamaTV app Update 1.2.5 - Update checker now points at GitHub Releases instead of the retired thaerbayyari.com domain, so updates work again"
+  "versionName": "1.2.6",
+  "apkSha256": "3dc5bbc6c6ef486086a60b5eb2ee7c9dae95179cf15feeefdaf0f32149ffba86",
+  "releaseNotes": "NashamaTV app Update 1.2.6 - Added a remove button to favorites in the Favorites list and on the Home screen's favorites row"
 }
