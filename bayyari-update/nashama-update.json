@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
+  "versionCode": 30,
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.app.apk",
-  "versionName": "1.2.4",
-  "apkSha256": "e130a2d4e9782003e3bd2df609d76ca82d41eae352905a33246f9d854fda6a06",
-  "releaseNotes": "NashamaTV app Update 1.2.4 - Editable server URL, Favorites poster art, and the update checker now points at GitHub Releases instead of the retired thaerbayyari.com domain"
+  "versionName": "1.2.5",
+  "apkSha256": "6411ca73d094034afc457367458c5b8963b125d5721982c45e6607e74048d822",
+  "releaseNotes": "NashamaTV app Update 1.2.5 - Update checker now points at GitHub Releases instead of the retired thaerbayyari.com domain, so updates work again"
 }
