@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EC-Council Certificate</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            overflow: hidden; /* Hide overflow */
+        }
+
+        /* Background Video */
+        .video-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1; /* Behind all content */
+        }
+
+        .certificate-container {
+            display: grid; /* Use CSS Grid */
+            grid-template-columns: repeat(2, 1fr); /* Two columns layout */
+            gap: 10px; /* Space between images */
+            width: 100%; /* Full width */
+            height: 100vh; /* Full viewport height */
+            margin: 0 auto; /* Center the container */
+            padding: 10px; /* Add padding */
+            z-index: 2; /* Make sure it appears above the video */
+            overflow: auto; /* Allow scrolling if necessary */
+            align-items: center; /* Center items vertically */
+            justify-items: center; /* Center items horizontally */
+            box-sizing: border-box; /* Include padding in height calculation */
+        }
+
+        .certificate-container img {
+            max-width: 100%; /* Ensure full size is used */
+            max-height: auto ;/* Limit the height to 45% of the viewport height */
+            width: auto; /* Maintain aspect ratio */
+            height: auto; /* Maintain aspect ratio */
+            border: 5px solid #6b6b6b00;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Background Video -->
+    <video class="video-bg" autoplay muted loop>
+        <source src="sur/background.mp4" type="video/mp4">
+       
+    </video>
+
+    <!-- Certificates Container -->
+    <div class="certificate-container">
+        <!-- EC Certificates -->
+        <img src="https://vjubgafdleedjcarsvsc.supabase.co/storage/v1/object/public/thaer/corse%20/EC_NDE.png" >
+        <img src="https://vjubgafdleedjcarsvsc.supabase.co/storage/v1/object/public/thaer/corse%20/EC-EHE.png" >
+    
+    </div>
+</body>
+</html>
