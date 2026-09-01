@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.TV.apk",
-  "releaseNotes": "Nashama TV (Android TV / Google TV) 1.0.0 — initial release",
-  "apkSha256": "aee163539bb69f540fefe975e69ce496e80542da603afb4e96186904429f7369"
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-smart-tv.apk",
+  "releaseNotes": "Nashama Smart TV 1.1.0 - Fixed auto-update (was pointing at a dead domain), fixed login being locked to a test server, added D-pad focus highlighting across browsing screens, ported watch-history/continue-watching series resume and favorites artwork from the phone app",
+  "apkSha256": "942ada5d321c44091074ba03206861113d5e52530c77c02d5063af6035e7fab2"
 }
