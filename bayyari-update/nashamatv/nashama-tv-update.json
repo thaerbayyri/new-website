@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.1.1",
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-smart-tv.apk",
-  "releaseNotes": "Nashama Smart TV 1.1.0 - Fixed auto-update (was pointing at a dead domain), fixed login being locked to a test server, added D-pad focus highlighting across browsing screens, ported watch-history/continue-watching series resume and favorites artwork from the phone app",
-  "apkSha256": "942ada5d321c44091074ba03206861113d5e52530c77c02d5063af6035e7fab2"
+  "releaseNotes": "Nashama Smart TV 1.1.1 - Added D-pad focus highlighting to the top nav bar and remaining browsing cards, fixed EPG overlay and Search box not receiving focus, requests focus on the Home tab at launch",
+  "apkSha256": "dabab971b834c3a47a8813af707b2600247b301c4c74f7de78b50289e9a5436b"
 }
