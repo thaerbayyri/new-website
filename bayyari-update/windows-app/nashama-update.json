@@ -1,5 +1,5 @@
 {
   "version": "1.2.9",
-  "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/Nashama.TV.Setup.exe",
+  "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-windows-1.2.9.exe",
   "notes": "Nashama TV Windows Update v1.2.9:\n- Fixed the in-app update system so downloads pull from the correct GitHub release source (older versions could fail to detect or install updates).\n- Fixed resuming a movie from Continue Watching using the wrong file format.\n- Fixed TV series episodes failing to play by automatically retrying with the correct file format.\n- Minor stability and reliability fixes."
 }
