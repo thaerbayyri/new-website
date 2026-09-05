@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
+  "versionCode": 32,
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.app.apk",
-  "versionName": "1.2.6",
-  "apkSha256": "3dc5bbc6c6ef486086a60b5eb2ee7c9dae95179cf15feeefdaf0f32149ffba86",
-  "releaseNotes": "NashamaTV app Update 1.2.6 - Added a remove button to favorites in the Favorites list and on the Home screen's favorites row"
+  "versionName": "1.2.7",
+  "apkSha256": "36978a6f9e6561538816b7efb43ae4e670e4a8a027934340e86d183287ee6c56",
+  "releaseNotes": "NashamaTV app Update 1.2.7 - Favorites page now has separate Live, Movies, and Series tabs instead of one mixed list"
 }
