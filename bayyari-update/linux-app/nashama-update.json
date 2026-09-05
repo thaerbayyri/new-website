@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-linux.AppImage",
-  "notes": "Initial Linux release of Nashama TV."
+  "notes": "Nashama TV Linux v1.0.1:\n- Fixed the app icon packaging so a proper set of icon sizes is installed (the app menu/taskbar icon could previously fall back to a generic icon on some desktop environments)."
 }
