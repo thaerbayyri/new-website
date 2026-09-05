@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
+  "versionCode": 33,
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.app.apk",
-  "versionName": "1.2.7",
-  "apkSha256": "36978a6f9e6561538816b7efb43ae4e670e4a8a027934340e86d183287ee6c56",
-  "releaseNotes": "NashamaTV app Update 1.2.7 - Favorites page now has separate Live, Movies, and Series tabs instead of one mixed list"
+  "versionName": "1.2.8",
+  "apkSha256": "bd7758d854d7132f0f617774f86a1610670165c2c46aa0a3bf8648ab56e89830",
+  "releaseNotes": "NashamaTV app Update 1.2.8 - Favorites page redesigned as a poster grid like Movies/Series; video playback now fills the whole screen edge-to-edge, including under the camera notch"
 }
