@@ -22,6 +22,7 @@ valid source for a download URL is a GitHub Release asset link.
 | `nashama-update.json` | NashamaTV — phone build | Android schema | `NashamaTV.app.apk` |
 | `nashamatv/nashama-tv-update.json` | NashamaTV — Android TV build | Android schema | `NashamaTV.TV.apk` |
 | `windows-app/nashama-update.json` | Nashama TV — Windows installer | Windows schema | `Nashama.TV.Setup.1.2.4.exe` (versioned name — see policy below) |
+| `linux-app/nashama-update.json` | Nashama TV — Linux AppImage | Windows schema (no versionCode/apkSha256) | `NashamaTV-linux.AppImage` (stable name, `--clobber` on every release) |
 
 ⚠️ **Known inconsistency to resolve, don't silently perpetuate it**: `update.json`
 (versionCode 27) and `update-tv.json` (versionCode 28) currently both point at the
