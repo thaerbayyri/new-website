@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-linux.AppImage",
-  "notes": "Nashama TV Linux v1.0.2:\n- The .deb build can now update itself: it downloads the matching .deb and asks for permission once (via your desktop's password prompt) to install it automatically, instead of just opening a browser link you had to install manually."
+  "notes": "Nashama TV Linux v1.0.3:\n- Fixed the app's own version display and update-check being stuck reporting 1.0.0 regardless of the actually-installed build, which also made it think an update was always available. Also fixes the .deb self-update path (v1.0.2's fix didn't make it into the actual build due to a packaging sync bug)."
 }
