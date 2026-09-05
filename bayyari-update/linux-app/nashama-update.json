@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-linux.AppImage",
-  "notes": "Nashama TV Linux v1.0.1:\n- Fixed the app icon packaging so a proper set of icon sizes is installed (the app menu/taskbar icon could previously fall back to a generic icon on some desktop environments)."
+  "notes": "Nashama TV Linux v1.0.2:\n- The .deb build can now update itself: it downloads the matching .deb and asks for permission once (via your desktop's password prompt) to install it automatically, instead of just opening a browser link you had to install manually."
 }
