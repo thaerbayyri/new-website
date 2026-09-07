@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
+  "versionCode": 35,
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.app.apk",
-  "versionName": "1.2.9",
-  "apkSha256": "f24688151fe458a85bb41b1afc3058eeeb658d72f79fa1e2cdf7baf28b68645d",
-  "releaseNotes": "NashamaTV app Update 1.2.9 - Favorites navigation moves to a left-side rail in landscape, matching Movies/Series poster sizing; video player reverts to standard (uncropped) fullscreen by default"
+  "versionName": "1.3.0",
+  "apkSha256": "2aae32aabde3fec880a00b55d4a7312a5b7aa39f42243bc6067853fe961ca285",
+  "releaseNotes": "NashamaTV app Update 1.3.0 - Hold and drag a poster in Favorites to reorder it; fixed social links, several playback and UI bugs, and improved app performance"
 }
