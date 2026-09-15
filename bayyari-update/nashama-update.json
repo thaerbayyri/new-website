@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
+  "versionCode": 36,
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.app.apk",
-  "versionName": "1.3.0",
-  "apkSha256": "2aae32aabde3fec880a00b55d4a7312a5b7aa39f42243bc6067853fe961ca285",
-  "releaseNotes": "NashamaTV app Update 1.3.0 - Hold and drag a poster in Favorites to reorder it; fixed social links, several playback and UI bugs, and improved app performance"
+  "versionName": "1.3.1",
+  "apkSha256": "d28c49080d72187fcf0cd543dff5b49c6ceec6741a227ab9d7fc8ddce0582e7e",
+  "releaseNotes": "NashamaTV app Update 1.3.1 - Pin favorites to the top of the Favorites page; fixed Home page not showing newly added series episodes; fixed Continue Watching not resuming movies"
 }
