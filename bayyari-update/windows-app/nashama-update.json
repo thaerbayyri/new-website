@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-windows-1.3.0.exe",
-  "notes": "Nashama TV Windows Update v1.3.0:\n- Fixed the in-app update system so downloads pull from the correct GitHub release source (older versions could fail to detect or install updates).\n- Fixed resuming a movie from Continue Watching using the wrong file format.\n- Fixed TV series episodes failing to play by automatically retrying with the correct file format when the provider reports the wrong one.\n- Minor stability and reliability fixes."
+  "version": "1.3.1",
+  "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-windows-1.3.1.exe",
+  "notes": "Nashama TV Windows Update v1.3.1:\n- Added pinning on the Favorites page: pin any channel, movie, or series so it always stays at the top of your list.\n- Fixed Continue Watching for movies so playback progress reliably saves when you close the player, instead of sometimes losing the last few seconds watched.\n- Minor stability and reliability fixes."
 }
