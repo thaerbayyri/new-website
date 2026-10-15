@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
+  "versionCode": 38,
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.app.apk",
-  "versionName": "1.3.2",
-  "apkSha256": "9a0e3009daa63fcfca2fc838e76cac5af715b0433566b9304cdf13ca0b24fa53",
-  "releaseNotes": "NashamaTV app Update 1.3.2 - Get notified when a new episode is added to a series in your Favorites"
+  "versionName": "1.3.3",
+  "apkSha256": "73bd6be16195d3f97ff7dfc664e269342d90afe653cd526d73d2cbfc1192d63",
+  "releaseNotes": "NashamaTV app Update 1.3.3 - Choose which favorited series notify you about new episodes, plus a notification when a new app update is available"
 }
