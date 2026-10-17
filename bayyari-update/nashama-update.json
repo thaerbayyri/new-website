@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
+  "versionCode": 40,
   "apkUrl": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV.app.apk",
-  "versionName": "1.3.4",
-  "apkSha256": "746efc892da6e763d8477308114b0001034dbfd3cd1db9a513bfc7beda085f13",
-  "releaseNotes": "NashamaTV app Update 1.3.4 - Notification bell toggle now also available on the series detail page"
+  "versionName": "1.3.5",
+  "apkSha256": "8fe2f04ce03c94ddd32df5a1fd4d07cb827106b881952b9124d5b050d4e8710a",
+  "releaseNotes": "NashamaTV app Update 1.3.5 - New-episode checks now run every hour instead of every 6 hours, so new episodes show up faster"
 }
