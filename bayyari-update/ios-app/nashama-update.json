@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-ios.ipa",
+  "notes": "Nashama TV iOS v1.0.0:\n- Initial iOS release (sideloaded build, no App Store distribution).\n- Live TV, Movies, Series, Favorites, and server management.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
+}
