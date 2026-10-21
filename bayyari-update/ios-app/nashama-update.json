@@ -1,5 +1,5 @@
 {
-  "version": "1.1.14",
+  "version": "1.1.15",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-ios.ipa",
-  "notes": "Nashama TV iOS v1.1.14:\n- Fixed Search, Server Manager, Add/Edit Server, and the in-player EPG browser not filling the full screen -- they were presented as card-style sheets, now full screen like the rest of the app.\n- v1.1.13 fix carried forward: live stream no longer stops after ~30s.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
+  "notes": "Nashama TV iOS v1.1.15:\n- Fixed the top nav bar being cramped on portrait iPhone screens -- the logo and icon cluster reserved fixed widths regardless of screen size, squeezing the tab chips down to barely fitting \"Home\" and part of \"Live TV\". Now sized to actual content, giving the chips the rest of the width.\n- v1.1.14 fix carried forward: full-screen presentation for Search/Server Manager/Add-Edit Server/EPG.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
 }
