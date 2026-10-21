@@ -1,5 +1,5 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.14",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-ios.ipa",
-  "notes": "Nashama TV iOS v1.1.13:\n- Fixed live channels stopping playback after about 30 seconds -- caused by a stale, no-longer-refreshing HLS manifest being served from cache instead of fetched fresh.\n- v1.1.12 fixes carried forward: favorite button in the live player, sort choice no longer resets between tabs, Series defaults to Recently Updated.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
+  "notes": "Nashama TV iOS v1.1.14:\n- Fixed Search, Server Manager, Add/Edit Server, and the in-player EPG browser not filling the full screen -- they were presented as card-style sheets, now full screen like the rest of the app.\n- v1.1.13 fix carried forward: live stream no longer stops after ~30s.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
 }
