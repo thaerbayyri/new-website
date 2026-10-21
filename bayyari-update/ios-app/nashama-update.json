@@ -1,5 +1,5 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-ios.ipa",
-  "notes": "Nashama TV iOS v1.1.8:\n- Fixed channel/poster logos not loading (scheme-relative icon URLs from some Xtream panels were silently failing to load).\n- Fixed live channel playback taking a long time to start.\n- Fixed Live TV tab being slow to open with large channel lists.\n- Favorites screen now matches the Android app: 3 tabs (Live/Movies/Series), remove with confirmation, per-series notification toggle, per-tab empty states.\n- Live/Movies/Series sort menus now match Android's options (Server Order, Name A-Z/Z-A, Year, etc).\n- Attempted fix for a rotation/layout bug after leaving the live player on iOS 15 devices.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
+  "notes": "Nashama TV iOS v1.1.9:\n- Settings: added a working Check for Update button; removed the non-functional Parental Lock PIN and Restore Hidden Categories entries.\n- Attempted fix for channel/poster logos rendering as gray placeholders: image requests now send the same User-Agent header stream playback already uses, in case the provider's static-asset host blocks the default request headers.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
 }
