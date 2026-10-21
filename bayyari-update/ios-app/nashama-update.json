@@ -1,5 +1,5 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.11",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-ios.ipa",
-  "notes": "Nashama TV iOS v1.1.10 (important fix):\n- Fixed live/movie/episode playback not working at all. A previous latency optimization disabled AVPlayer's built-in buffering safety net, which could leave the player stuck showing nothing. Reverted -- playback should work reliably again.\n- Settings: added a working Check for Update button; removed the non-functional Parental Lock PIN and Restore Hidden Categories entries.\n- Attempted fix for channel/poster logos rendering as gray placeholders (image requests now send the same User-Agent header stream playback uses).\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
+  "notes": "Nashama TV iOS v1.1.11:\n- Fixed Favorites: tapping a saved movie or series did nothing; now opens its detail page. Tapping a saved live channel now plays it directly from the Favorites tab.\n- Moved the remove (trash) icon onto the poster image itself so it no longer competes for space with the pin icon.\n- v1.1.10 fix carried forward: live/movie/episode playback stability restored.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
 }
