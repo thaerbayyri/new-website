@@ -1,5 +1,5 @@
 {
-  "version": "1.1.12",
+  "version": "1.1.13",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-ios.ipa",
-  "notes": "Nashama TV iOS v1.1.12:\n- Another attempt at the rotation/squeeze bug after leaving the live player -- now re-applies the fix again shortly after exit to beat a timing race, since it was reported happening specifically on exit.\n- Added a favorite (heart) button inside the live player itself.\n- Fixed sort choice on Live/Movies/Series resetting every time you leave and return to the tab.\n- Series now defaults to \"Recently Updated\" instead of Name A-Z (Movies already defaulted to Recently Added).\n- Note: some channels with no sound is a known iOS limitation (AVPlayer can't decode AC-3/Dolby Digital audio) -- not something we can fix in the app.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
+  "notes": "Nashama TV iOS v1.1.13:\n- Fixed live channels stopping playback after about 30 seconds -- caused by a stale, no-longer-refreshing HLS manifest being served from cache instead of fetched fresh.\n- v1.1.12 fixes carried forward: favorite button in the live player, sort choice no longer resets between tabs, Series defaults to Recently Updated.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
 }
