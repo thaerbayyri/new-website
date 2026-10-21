@@ -1,5 +1,5 @@
 {
-  "version": "1.1.15",
+  "version": "1.1.16",
   "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-ios.ipa",
-  "notes": "Nashama TV iOS v1.1.15:\n- Fixed the top nav bar being cramped on portrait iPhone screens -- the logo and icon cluster reserved fixed widths regardless of screen size, squeezing the tab chips down to barely fitting \"Home\" and part of \"Live TV\". Now sized to actual content, giving the chips the rest of the width.\n- v1.1.14 fix carried forward: full-screen presentation for Search/Server Manager/Add-Edit Server/EPG.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
+  "notes": "Nashama TV iOS v1.1.16 (likely the real fix for the full-screen layout issue):\n- Confirmed root cause: Dashboard, Search, and Server Manager were missing .navigationBarHidden(true), so a blank system navigation bar was reserving space above the custom header on every screen -- most noticeable in landscape, where that lost height made the whole interface look squeezed into less than the full screen. Fixed.\n- v1.1.15 fix carried forward: nav bar chips no longer cramped in portrait.\n- Install with Sideloadly or xtool using your Apple ID; re-sideload every 7 days to keep it signed."
 }
