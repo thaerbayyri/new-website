@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-windows-1.3.1.exe",
-  "notes": "Nashama TV Windows Update v1.3.1:\n- Added pinning on the Favorites page: pin any channel, movie, or series so it always stays at the top of your list.\n- Fixed Continue Watching for movies so playback progress reliably saves when you close the player, instead of sometimes losing the last few seconds watched.\n- Minor stability and reliability fixes."
+  "version": "1.3.2",
+  "url": "https://github.com/thaerbayyri/new-website/releases/download/app-updates-v1/NashamaTV-windows-1.3.2.exe",
+  "notes": "Nashama TV Windows Update v1.3.2:\n- Fixed the +10s / -10s buttons (and the arrow keys) sending an episode back to the start on some series, including the latest episodes of المنظمة.\n- Seeking now works on videos from servers that don't support jumping, instead of restarting the episode.\n- If playback hits an error, it now resumes from where you were instead of restarting from the beginning."
 }
